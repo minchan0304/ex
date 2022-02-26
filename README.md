@@ -1,2 +1,1 @@
-# ex
-ex
+<a href="https://discord.com/api/oauth2/authorize?client_id=931152690636017704&permissions=8&scope=bot%20applications.commands" target="_blank"><img src="https://img.shields.io/badge/5865F2style=Discord&logo=discord&logoColor=#5865F2"/></a>

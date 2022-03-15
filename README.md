@@ -8,5 +8,5 @@
         oo1_embed.setColor('ff0000')
         oo1_embed.setTitle(":red_circle:서버 오프")
         oo1_embed.setDescription('> 서버가 오프 되었습니다.\r> 서버가 온 되었다고 공지가 올라왔을때까지 기다려주세요!')
-        oo1_embed.setFooter(`ICE BEAR 서버 • ${currentTime}`)
+        oo1_embed.setFooter(` ${currentTime}`)
         client.channels.cache.get(CHA).send(oo1_embed)
